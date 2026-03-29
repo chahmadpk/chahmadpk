@@ -1,16 +1,4 @@
-## Hi there 👋
-
-<!--
-**chahmadpk/chahmadpk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...# 💫 About Me:
+# 💫 About Me:
 I am Muhammad Ahmad Raza, a Computer Science student at COMSATS University with strong foundations in C++, Java, Python, and SQL, and a solid grasp of object-oriented programming. I have experience developing WordPress websites and working with HTML and CSS, and I am currently advancing my knowledge of data structures. As an AI and machine learning enthusiast, I am passionate about continuous learning and applying my technical skills in practical projects.
 
 
@@ -28,6 +16,3 @@ I am Muhammad Ahmad Raza, a Computer Science student at COMSATS University with 
 [![](https://visitcount.itsvg.in/api?id=chahmadpk&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
